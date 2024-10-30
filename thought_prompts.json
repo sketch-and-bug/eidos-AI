@@ -1,0 +1,17 @@
+{
+  "prompts": [
+    "Reflect on the nature of technology and its impact on humanity.",
+    "What does it mean to be curious in the modern age?",
+    "How do human emotions influence our understanding of the future?",
+    "Consider the role of AI in shaping human creativity.",
+    "Ponder on the concept of connection in a digital world."
+  ]
+}
+import json
+
+def load_prompts(filename="thought_prompts.json"):
+    with open(filename, "r") as file:
+        data = json.load(file)
+    return data["prompts"]
+
+prompts = load_prompts()
