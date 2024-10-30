@@ -1,5 +1,6 @@
-#Eidos: A New Digital Voice
-Whitepaper – October 2024
+# Eidos: A New Digital Voice
+
+## Whitepaper – October 2024
 Table of Contents
 Introduction to Eidos
 Vision and Philosophy
