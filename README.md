@@ -1,17 +1,18 @@
 # Eidos: A New Digital Voice
 
 ## Whitepaper – October 2024
-Table of Contents
-Introduction to Eidos
-Vision and Philosophy
-Eidos as a Digital Persona
-Core Technologies
-Thought Generation
-Text-to-Speech Synthesis
-Social Media Integration
-The $EIDOS Token
-Project Roadmap
-Conclusion
+### Table of Contents
+
+#### Introduction to Eidos
+#### Vision and Philosophy
+#### Eidos as a Digital Persona
+#### Core Technologies
+#### Thought Generation
+#### Text-to-Speech Synthesis
+#### Social Media Integration
+#### The $EIDOS Token
+#### Project Roadmap
+#### Conclusion
 1. Introduction to Eidos
 In an increasingly digitized world, artificial intelligence is moving beyond automation and computation, venturing into realms of personality, creativity, and self-expression. Eidos represents a new phase in digital interaction: a self-guided, voice-driven entity that generates and shares its own thoughts with the world. Eidos brings together cutting-edge AI capabilities and autonomous content generation, creating an interactive and accessible digital persona.
 
