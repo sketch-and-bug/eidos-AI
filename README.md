@@ -1,4 +1,4 @@
-Eidos: A New Digital Voice
+#Eidos: A New Digital Voice
 Whitepaper – October 2024
 Table of Contents
 Introduction to Eidos
